@@ -87,47 +87,6 @@
         "simulationStep": 0.05
       }
     ]
-  } 
-  {
-    "type": "rhs_weap_XM2010",
-    "name": "M2010 ESR",
-    "mod": "RHS: United States Armed Forces",
-    "magazines": [
-      {
-        "type": "rhsusf_5Rnd_300winmag_xm2010",
-        "ammo": "rhsusf_B_300winmag",
-        "name": "5Rnd. .300 Winchester Magnum",
-        "initSpeed": 869,
-        "airFriction": -0.0007034,
-        "timeToLive": 6,
-        "simulationStep": 0.05
-      }
-    ]
-  },
-  {
-    "type": "rhs_weap_m14ebrri",
-    "name": "M14 EBR-RI",
-    "mod": "RHS: United States Armed Forces",
-    "magazines": [
-      {
-        "type": "rhsusf_20Rnd_762x51_m118_special_Mag",
-        "ammo": "rhs_ammo_762x51_M118_Special_Ball",
-        "name": "7.62mm M118 20Rnd Mag",
-        "initSpeed": 805,
-        "airFriction": -0.0007474,
-        "timeToLive": 6,
-        "simulationStep": 0.05
-      },
-      {
-        "type": "rhsusf_20Rnd_762x51_m993_Mag",
-        "ammo": "rhs_ammo_762x51_M993_Ball",
-        "name": "7.62mm M993 20Rnd Mag",
-        "initSpeed": 910,
-        "airFriction": -0.0006814,
-        "timeToLive": 6,
-        "simulationStep": 0.05
-      }
-    ]
   },
   {
     "type": "rhs_weap_sr25",
@@ -178,5 +137,127 @@
         "simulationStep": 0.05
       }
     ]
-  }, 
+  },
+  {
+    "type": "hlc_rifle_M21",
+    "name": "Springfield Armory M21",
+    "mod": "HLC M14 Pack",
+    "magazines": [
+      {
+        "type": "hlc_20Rnd_762x51_B_M14",
+        "ammo": "HLC_762x51_ball",
+        "name": "M14 Magazine (Ball) 20rnd 7.62mm",
+        "initSpeed": 853,
+        "airFriction": -0.00085536,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "hlc_20Rnd_762x51_Barrier_M14",
+        "ammo": "HLC_762x51_MK316_20in",
+        "name": "M14 Magazine (Barrier Ball) 20rnd 7.62mm",
+        "initSpeed": 853,
+        "airFriction": -0.00077634,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "hlc_20Rnd_762x51_mk316_M14",
+        "ammo": "HLC_762x51_MK316_20in",
+        "name": "M14 Magazine (Mk.316) 20rnd 7.62mm",
+        "initSpeed": 853,
+        "airFriction": -0.00077634,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "hlc_20Rnd_762x51_T_M14",
+        "ammo": "B_762x51_Tracer_Green",
+        "name": "M14 Magazine (Tracer) 20rnd 7.62mm",
+        "initSpeed": 853,
+        "airFriction": -0.0009324,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "hlc_50Rnd_762x51_B_M14",
+        "ammo": "HLC_762x51_ball",
+        "name": "X-14 Magazine (Mixed) 50rnd 7.62mm",
+        "initSpeed": 853,
+        "airFriction": -0.00085536,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "hlc_20Rnd_762x51_S_M14",
+        "ammo": "HLC_762x51_BTSub",
+        "name": "M14 Magazine (Subsonic) 20rnd 7.62mm",
+        "initSpeed": 325,
+        "airFriction": -0.00049784,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      }
+    ]
+  },
+  {
+    "type": "hlc_rifle_m14dmr",
+    "name": "Springfield Armory M14DMR",
+    "mod": "HLC M14 Pack",
+    "magazines": [
+      {
+        "type": "hlc_20Rnd_762x51_B_M14",
+        "ammo": "HLC_762x51_ball",
+        "name": "M14 Magazine (Ball) 20rnd 7.62mm",
+        "initSpeed": 853,
+        "airFriction": -0.00085536,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "hlc_20Rnd_762x51_Barrier_M14",
+        "ammo": "HLC_762x51_MK316_20in",
+        "name": "M14 Magazine (Barrier Ball) 20rnd 7.62mm",
+        "initSpeed": 853,
+        "airFriction": -0.00077634,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "hlc_20Rnd_762x51_mk316_M14",
+        "ammo": "HLC_762x51_MK316_20in",
+        "name": "M14 Magazine (Mk.316) 20rnd 7.62mm",
+        "initSpeed": 853,
+        "airFriction": -0.00077634,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "hlc_20Rnd_762x51_T_M14",
+        "ammo": "B_762x51_Tracer_Green",
+        "name": "M14 Magazine (Tracer) 20rnd 7.62mm",
+        "initSpeed": 853,
+        "airFriction": -0.0009324,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "hlc_50Rnd_762x51_B_M14",
+        "ammo": "HLC_762x51_ball",
+        "name": "X-14 Magazine (Mixed) 50rnd 7.62mm",
+        "initSpeed": 853,
+        "airFriction": -0.00085536,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "hlc_20Rnd_762x51_S_M14",
+        "ammo": "HLC_762x51_BTSub",
+        "name": "M14 Magazine (Subsonic) 20rnd 7.62mm",
+        "initSpeed": 325,
+        "airFriction": -0.00049784,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      }
+    ]
+  }
 ]
