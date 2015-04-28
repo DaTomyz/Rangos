@@ -58,7 +58,7 @@
         "name": "12.7mm 5Rnd Mag",
         "initSpeed": 820,
         "airFriction": -0.00086,
-        "timeToLive": 6,
+        "timeToLive": 10,
         "simulationStep": 0.05
       },
       {
@@ -67,7 +67,7 @@
         "name": "12.7mm 5Rnd APDS Mag",
         "initSpeed": 1060,
         "airFriction": -0.00036,
-        "timeToLive": 6,
+        "timeToLive": 10,
         "simulationStep": 0.05
       }
     ]
