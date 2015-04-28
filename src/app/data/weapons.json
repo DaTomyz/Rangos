@@ -1622,4 +1622,20 @@
       }
     ]
   }
+    {
+    "type": "srifle_DMR_02_sniper_F",
+    "name": "MAR-10 .338 (arena)",
+    "mod": "Arma3",
+    "magazines": [
+      {
+        "type": "10Rnd_338_Mag",
+        "ammo": "B_338_Ball",
+        "name": ".338 LM, cargador de 10 balas",
+        "initSpeed": 915,
+        "airFriction": -0.00061,
+        "timeToLive": 10,
+        "simulationStep": 0.05
+      }
+    ]
+  },
 ]
