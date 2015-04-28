@@ -1,7 +1,7 @@
 [
   {
     "type": "srifle_EBR_F",
-    "name": "Mk14 Mod 1 EBR, Mk-I EMR 7,62mm, Mk14 7,62mm",
+    "name": "Mk14 Mod 1 EBR",
     "mod": "Arma3",
     "magazines": [
       {
@@ -87,8 +87,7 @@
         "simulationStep": 0.05
       }
     ]
-  },
-  {
+  } 
   {
     "type": "rhs_weap_XM2010",
     "name": "M2010 ESR",
@@ -107,7 +106,7 @@
   },
   {
     "type": "rhs_weap_m14ebrri",
-    "name": "M14 EBR-RI, SR-25 y SR-25EC",
+    "name": "M14 EBR-RI",
     "mod": "RHS: United States Armed Forces",
     "magazines": [
       {
@@ -129,21 +128,55 @@
         "simulationStep": 0.05
       }
     ]
-  }
- {
-    "type": "srifle_DMR_05_blk_F",
-    "name": "Cyrus 9,3 mm",
-    "mod": "Arma3",
+  },
+  {
+    "type": "rhs_weap_sr25",
+    "name": "SR-25",
+    "mod": "RHS: United States Armed Forces",
     "magazines": [
       {
-        "type": "10Rnd_93x64_DMR_05_Mag",
-        "ammo": "B_93x64_Ball",
-        "name": "9,3mm, cargador de 10 balas",
-        "initSpeed": 870,
-        "airFriction": -0.00075,
-        "timeToLive": 10,
+        "type": "rhsusf_20Rnd_762x51_m118_special_Mag",
+        "ammo": "rhs_ammo_762x51_M118_Special_Ball",
+        "name": "7.62mm M118 20Rnd Mag",
+        "initSpeed": 805,
+        "airFriction": -0.0007474,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "rhsusf_20Rnd_762x51_m993_Mag",
+        "ammo": "rhs_ammo_762x51_M993_Ball",
+        "name": "7.62mm M993 20Rnd Mag",
+        "initSpeed": 910,
+        "airFriction": -0.0006814,
+        "timeToLive": 6,
         "simulationStep": 0.05
       }
     ]
-   },
+  },
+  {
+    "type": "rhs_weap_sr25_ec",
+    "name": "SR-25 EC",
+    "mod": "RHS: United States Armed Forces",
+    "magazines": [
+      {
+        "type": "rhsusf_20Rnd_762x51_m118_special_Mag",
+        "ammo": "rhs_ammo_762x51_M118_Special_Ball",
+        "name": "7.62mm M118 20Rnd Mag",
+        "initSpeed": 805,
+        "airFriction": -0.0007474,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "rhsusf_20Rnd_762x51_m993_Mag",
+        "ammo": "rhs_ammo_762x51_M993_Ball",
+        "name": "7.62mm M993 20Rnd Mag",
+        "initSpeed": 910,
+        "airFriction": -0.0006814,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      }
+    ]
+  }, 
 ]
