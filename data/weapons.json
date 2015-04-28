@@ -12,11 +12,11 @@
         "airFriction": -0.0008577,
         "timeToLive": 6,
         "simulationStep": 0.05
-      }
+      },
       {
         "type": "20Rnd_762x51_Mag",
         "ammo": "AGM_B_762x51_M118LR",
-        "name": "Super bala Cheytac",
+        "name": "SuperbalaCheytac",
         "initSpeed": 910,
         "airFriction": -0.00048,
         "timeToLive": 6,
