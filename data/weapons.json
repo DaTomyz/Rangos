@@ -89,9 +89,9 @@
     ]
   },
   {
-    "type": "rhs_weap_sr25",
+    "type": "rhs_weap_m14ebrri",
     "name": "M14 EBR-RI, SR-25 y SR-25 EC",
-    "mod": "RHS: United States Armed Forces",
+    "mod": "RHS Escalation",
     "magazines": [
       {
         "type": "rhsusf_20Rnd_762x51_m118_special_Mag",
