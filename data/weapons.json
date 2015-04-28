@@ -24,8 +24,8 @@
         "type": "10Rnd_762x51_Mag",
         "ammo": "B_762x51_Ball",
         "name": "10Rnd 7.62x51 Magazine",
-        "initSpeed": 350,
-        "airFriction": -0.96,
+        "initSpeed": 800,
+        "airFriction": -0.00096,
         "timeToLive": 6,
         "simulationStep": 0.05
       }
