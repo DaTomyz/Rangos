@@ -116,7 +116,7 @@
   {
     "type": "hlc_rifle_M21",
     "name": "Springfield Armory M21",
-    "mod": "HLC M14 Pack",
+    "mod": "Armas HLC",
     "magazines": [
       {
         "type": "hlc_20Rnd_762x51_B_M14",
@@ -177,7 +177,7 @@
   {
     "type": "hlc_rifle_m14dmr",
     "name": "Springfield Armory M14DMR",
-    "mod": "HLC M14 Pack",
+    "mod": "Armas HLC",
     "magazines": [
       {
         "type": "hlc_20Rnd_762x51_B_M14",
