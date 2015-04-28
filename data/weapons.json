@@ -1193,6 +1193,22 @@
       }
     ]
   },
+ {
+    "type": "srifle_DMR_05_blk_F",
+    "name": "Cyrus 9,3 mm",
+    "mod": "Arma3",
+    "magazines": [
+      {
+        "type": "10Rnd_93x64_DMR_05_Mag",
+        "ammo": "B_93x64_Ball",
+        "name": "9,3mm, cargador de 10 balas",
+        "initSpeed": 870,
+        "airFriction": -0.00075,
+        "timeToLive": 10,
+        "simulationStep": 0.05
+      }
+    ]
+   },
   {
     "type": "CUP_srifle_M14",
     "name": "M14",
