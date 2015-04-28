@@ -106,7 +106,7 @@
   },
   {
     "type": "rhs_weap_m14ebrri",
-    "name": "M14 EBR-RI",
+    "name": "M14 EBR-RI, SR-25 y SR-25EC",
     "mod": "RHS: United States Armed Forces",
     "magazines": [
       {
@@ -127,93 +127,8 @@
         "timeToLive": 6,
         "simulationStep": 0.05
       }
-    ]
-  },
-  {
-    "type": "rhs_weap_sr25",
-    "name": "SR-25",
-    "mod": "RHS: United States Armed Forces",
-    "magazines": [
-      {
-        "type": "rhsusf_20Rnd_762x51_m118_special_Mag",
-        "ammo": "rhs_ammo_762x51_M118_Special_Ball",
-        "name": "7.62mm M118 20Rnd Mag",
-        "initSpeed": 805,
-        "airFriction": -0.0007474,
-        "timeToLive": 6,
-        "simulationStep": 0.05
-      },
-      {
-        "type": "rhsusf_20Rnd_762x51_m993_Mag",
-        "ammo": "rhs_ammo_762x51_M993_Ball",
-        "name": "7.62mm M993 20Rnd Mag",
-        "initSpeed": 910,
-        "airFriction": -0.0006814,
-        "timeToLive": 6,
-        "simulationStep": 0.05
-      }
-    ]
-  },
-  {
-    "type": "rhs_weap_sr25_ec",
-    "name": "SR-25 EC",
-    "mod": "RHS: United States Armed Forces",
-    "magazines": [
-      {
-        "type": "rhsusf_20Rnd_762x51_m118_special_Mag",
-        "ammo": "rhs_ammo_762x51_M118_Special_Ball",
-        "name": "7.62mm M118 20Rnd Mag",
-        "initSpeed": 805,
-        "airFriction": -0.0007474,
-        "timeToLive": 6,
-        "simulationStep": 0.05
-      },
-      {
-        "type": "rhsusf_20Rnd_762x51_m993_Mag",
-        "ammo": "rhs_ammo_762x51_M993_Ball",
-        "name": "7.62mm M993 20Rnd Mag",
-        "initSpeed": 910,
-        "airFriction": -0.0006814,
-        "timeToLive": 6,
-        "simulationStep": 0.05
-      }
-    ]
-  },
-  {
-    "type": "RH_SR25EC",
-    "name": "SR25EC",
-    "mod": "RH M4/M16 Pack",
-    "magazines": [
-      {
-        "type": "RH_20Rnd_762x51_M80A1",
-        "ammo": "RH_762x51_B_M80A1",
-        "name": "7.62mm 20Rnd M110 Mag M80A1",
-        "initSpeed": 784,
-        "airFriction": -0.00085536,
-        "timeToLive": 6,
-        "simulationStep": 0.05
-      },
-      {
-        "type": "RH_20Rnd_762x51_Mk319",
-        "ammo": "RH_762x51_B_Mk319",
-        "name": "7.62mm 20Rnd SR25EC Mag Mk319",
-        "initSpeed": 784,
-        "airFriction": -0.00111169,
-        "timeToLive": 6,
-        "simulationStep": 0.05
-      },
-      {
-        "type": "RH_20Rnd_762x51_LFMJSB",
-        "ammo": "RH_762x51_B_LFMJSB",
-        "name": "7.62mm 20Rnd M110 Mag LFMJSB",
-        "initSpeed": 339.852,
-        "airFriction": -0.00049784,
-        "timeToLive": 6,
-        "simulationStep": 0.05
-      }
-    ]
-  },
-  {
+    ] 
+   {
     "type": "hlc_rifle_M21",
     "name": "Springfield Armory M21",
     "mod": "HLC M14 Pack",
