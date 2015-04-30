@@ -282,5 +282,21 @@
         "simulationStep": 0.05
       }
     ]
+  },
+  {
+    "type": "rhs_weap_svd",
+    "name": "Dragunov SVD",
+    "mod": "RHS Escalation",
+    "magazines": [
+      {
+        "type": "rhs_10Rnd_762x54mmR_7N1",
+        "ammo": "rhs_B_762x54_7N1_Ball",
+        "name": "10Rnd 7.62x54mmR (7N1) Mag",
+        "initSpeed": 823,
+        "airFriction": -0.0009,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      }
+    ]
   }
 ]
