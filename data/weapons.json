@@ -298,5 +298,87 @@
         "simulationStep": 0.05
       }
     ]
-  }
+  },
+  {
+    "type": "CUP_srifle_M107_Base",
+    "name": "M107",
+    "mod": "15th MEU SOC Armas",
+    "magazines": [
+      {
+        "type": "MEU_10x127_HEIAP_Mag",
+        "ammo": "B_MEU_Mk211",
+        "name": "Raufoss Mk 211",
+        "initSpeed": 853,
+        "airFriction": -0.00086,
+        "timeToLive": 10,
+        "simulationStep": 0.05
+      }
+    ]
+  },
+  {
+    "type": "CUP_srifle_M110",
+    "name": "M110",
+    "mod": "15th MEU SOC Armas",
+    "magazines": [
+      {
+        "type": "MEU_20x762_Mag",
+        "ammo": "B_MEU_M118LR_Ball",
+        "name": "M118LR",
+        "initSpeed": 783,
+        "airFriction": -0.001,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      }
+    ]
+  },
+  {
+    "type": "MEU_M40A5",
+    "name": "M40A5",
+    "mod": "15th MEU SOC Armas",
+    "magazines": [
+      {
+        "type": "MEU_5x762_Mag",
+        "ammo": "M118LR_Ball_m40",
+        "name": "M118LR",
+        "initSpeed": 868,
+        "airFriction": -0.001,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      }
+    ]
+  },
+  {
+    "type": "CUP_srifle_Mk12SPR",
+    "name": "Mk 12 SPR",
+    "mod": "15th MEU SOC Armas",
+    "magazines": [
+      {
+        "type": "MEU_30Rnd_M855A1_556x45_Stanag",
+        "ammo": "B_MEU_M855a1",
+        "name": "M855A1",
+        "initSpeed": 945,
+        "airFriction": -0.00113366,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "MEU_30Rnd_M855A1_556x45_T_Stanag",
+        "ammo": "B_MEU_M8556",
+        "name": "M856",
+        "initSpeed": 945,
+        "airFriction": -0.00113366,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      },
+      {
+        "type": "MEU_30x556_Mk262_Mag",
+        "ammo": "B_MEU_Mk262",
+        "name": "Mk 262",
+        "initSpeed": 868.68,
+        "airFriction": -0.00108679,
+        "timeToLive": 6,
+        "simulationStep": 0.05
+      }
+    ]
+  }  
 ]
