@@ -41,7 +41,7 @@
         "ammo": "B_408_Ball",
         "name": ".408 7Rnd Mag",
         "initSpeed": 910,
-        "airFriction": -0.00048,
+        "airFriction": -0.000395,
         "timeToLive": 6,
         "simulationStep": 0.05
       }
